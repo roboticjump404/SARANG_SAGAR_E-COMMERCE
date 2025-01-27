@@ -1,8 +1,4 @@
-**eCommerce Transactions Dataset: Data Science Assignment**
-
-**Overview**
-
-This project involves analyzing an eCommerce Transactions dataset consisting of three CSV files: Customers.csv, Products.csv, and Transactions.csv. The goal is to perform exploratory data analysis (EDA), build a lookalike model, and implement customer segmentation using clustering techniques. This assignment will test your skills in data analysis, machine learning, and generating actionable business insights.
+This project involves analyzing an eCommerce Transactions dataset consisting of three CSV files: Customers.csv, Products.csv, and Transactions.csv. The goal is to perform exploratory data analysis (EDA), build a lookalike model, and implement customer segmentation using clustering techniques. 
 
 **Customers.csv:**
 
